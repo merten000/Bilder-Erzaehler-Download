@@ -9,6 +9,10 @@ erstellt.
 KEINE Variante ganz ohne KI - das Vorlesen des Textes ist selbst schon eine
 KI-Funktion und braucht immer einen eigenen API-Key.
 
+## Video
+
+Kurzes Video zum Programm: [Bilder-Erzähler auf YouTube](https://www.youtube.com/watch?v=ZGtreBKFQlg)
+
 ## Screenshots
 
 ![Hauptfenster mit OpenAI](screenshots/1%20Programm%20start.PNG)
