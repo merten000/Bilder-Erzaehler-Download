@@ -13,6 +13,8 @@ KI-Funktion und braucht immer einen eigenen API-Key.
 
 Kurzes Video zum Programm: [Bilder-Erzähler auf YouTube](https://www.youtube.com/watch?v=ZGtreBKFQlg)
 
+Mehr Videos findest du auf meinem [YouTube-Kanal](https://www.youtube.com/@merten9201).
+
 ## Screenshots
 
 ![Hauptfenster mit OpenAI](screenshots/1%20Programm%20start.PNG)
